@@ -1,0 +1,7 @@
+publish:
+    path: /publish
+    controller: App\Controller\Publish
+
+discover:
+    path: /discover
+    controller: App\Controller\Discover

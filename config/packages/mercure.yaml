@@ -1,0 +1,5 @@
+mercure:
+    hubs:
+        default:
+            url: '%env(MERCURE_URL)%'
+            jwt: '%env(MERCURE_JWT)%'
